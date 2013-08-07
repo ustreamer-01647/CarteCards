@@ -1,0 +1,16 @@
+/* 
+    Document   : style
+    Created on : 2013/05/27, 14:25:00
+    Author     : paul
+    Description:
+        全ページ共通
+*/
+
+dt { font-weight: bold;}
+p { text-indent: 1em;}
+h1 { border-left: solid 10px; border-bottom: solid 3px; padding-left: 5px;}
+h2 { border-left: solid 5px; border-bottom: solid 1px; padding-left: 3px; }
+table, th, td { border: solid 1px black; }
+blockquote { border-left: solid 2px gray; padding-left: 4px; }
+img { vertical-align: top; }
+
